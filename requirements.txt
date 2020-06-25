@@ -1,0 +1,12 @@
+django
+django_extensions  # for shell_plus
+
+django-allauth
+django-crispy-forms
+django-notifications-hq
+django-debug-toolbar
+
+python-dateutil
+
+
+whitenoise
